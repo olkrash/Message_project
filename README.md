@@ -7,6 +7,7 @@ Run commands
 - npm install
 - npm run dev
 - php artisan serve
+- php artisan migrate 
 
   
   The default page will be form with inputs:
